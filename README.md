@@ -7,7 +7,7 @@
 
 ### Contact me on 
 
-![contact](https://img.shields.io/badge/DISCORD-You%20can%20contact%20me%20here-blue?style=for-the-badge&logo=discord)
+![contact](https://img.shields.io/badge/DISCORD-You%20can%20contact%20me%20here-blue?style=for-the-badge&logo=discord) Joji#0082
 
 ### Languages 
 
