@@ -9,4 +9,4 @@
 
 ### Currently i can work with 👋
 
-![contact](https://img.shields.io/badge/DISCORD-You%20can%20contact%20me%20here-blue?style=for-the-badge&logo=appveyor)
+![contact](https://img.shields.io/badge/DISCORD-You%20can%20contact%20me%20here-blue?style=for-the-badge&logo=discord)
