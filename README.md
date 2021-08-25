@@ -11,5 +11,6 @@ Here are some ideas to get you started:
   Discord : Joji#0082
 - ⚡ Fun fact: Im not a hacker...
 -->
+### Currently i can work with 👋
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![python](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
