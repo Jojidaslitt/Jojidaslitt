@@ -1,4 +1,4 @@
-### Hi there �
+### Hi there 
 
 
 - Im an algerian discord bot developer
