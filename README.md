@@ -1,6 +1,6 @@
 ### Contact me on 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/482937399995924482)](https://discord.com/users/482937399995924482)
+[![Discord Presence](https://lanyard.cnrad.dev/api/482937399995924482)](https://discord.com/users/482937399995924482:idleMessage=:Making better version of my self)
 
 ### Languages 
 
