@@ -1,7 +1,5 @@
 ### Contact me on 
 
-![contact](https://img.shields.io/badge/DISCORD-You%20can%20contact%20me%20here-blue?style=for-the-badge&logo=discord) 
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/482937399995924482)](https://discord.com/users/482937399995924482)
 
 ### Languages 
