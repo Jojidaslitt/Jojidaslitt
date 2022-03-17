@@ -1,3 +1,5 @@
+![BTCHS](https://img.shields.io/badge/Bitchs%20Pulled-0-red?style=for-the-badge)
+
 ### Contact me on 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/482937399995924482)](https://discord.com/users/482937399995924482)
