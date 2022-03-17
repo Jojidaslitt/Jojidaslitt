@@ -1,5 +1,7 @@
 ### Contact me on 
 
+![Hits](https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FJojidaslitt)
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/482937399995924482)](https://discord.com/users/482937399995924482)
 
 ### Languages 
