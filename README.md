@@ -19,3 +19,21 @@
 ### Discord server now
 
 ![server](https://img.shields.io/discord/938147812212899890?style=for-the-badge)
+
+<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/futurexo378 rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-d3430eaf-c8c1-4bc1-a5d7-858dd4b0d0eb' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >futurexo378</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>Hello everyone I am  bounabi , a freelance certified graphic designer based in  algeria , i am a student and I also do graphic design  as a hobby i am specialists in Logo designs, Business cards, flyers and posters. Please message for more info !
+</div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-d3430eaf-c8c1-4bc1-a5d7-858dd4b0d0eb' src='https://widgets.fiverr.com/api/v1/seller/futurexo378?widget_id=d3430eaf-c8c1-4bc1-a5d7-858dd4b0d0eb' data-config='{"category_name":"Graphics \u0026 Design"}' async='true' defer='true'></script>
+
